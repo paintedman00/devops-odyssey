@@ -119,7 +119,6 @@
 - **File Type Conversion**:
   - Convert DOS to UNIX: `dos2unix filename`
   - Convert UNIX to DOS: `unix2dos filename`
-```
 
  
 ## String Manipulation
