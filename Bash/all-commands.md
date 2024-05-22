@@ -121,7 +121,7 @@
   - Convert UNIX to DOS: `unix2dos filename`
 ```
 
- ```markdown
+ 
 ## String Manipulation
 - **String Length**: `${#VAR}`
 - **Substring Extraction**: `${VAR:START:LENGTH}`
