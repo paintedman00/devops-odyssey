@@ -30,6 +30,20 @@
    6. [Logging](#logging)
    7. [File Types (DOS/WINDOWS vs UNIX/LINUX)](#file-types-doswindows-vs-unixlinux)
 5. [Best Practices](#best-practices)
+6. [Bash Scripting](#bash-scripting)
+7. [Data Structures](#data-structures)
+8. [Strict Mode](#strict-mode)
+9. [Functions](#functions)
+10. [Variables](#variables)
+   1. [Built-in Variables](#built-in-variables)
+11. [Regular Expressions and Globbing](#regular-expressions-and-globbing)
+12. [String Manipulation](#string-manipulation)
+13. [Debugging](#debugging)
+14. [Best Practices](#best-practices)
+15. [Further Reading](#further-reading)
+16. [Version](#version)
+
+
 
 ## Introduction
 
@@ -661,21 +675,6 @@ function function_one() {
 
 ---
 
-# Learning Bash
-
-## Table of Contents
-1. [Bash Scripting](#bash-scripting)
-2. [Data Structures](#data-structures)
-3. [Strict Mode](#strict-mode)
-4. [Functions](#functions)
-5. [Variables](#variables)
-   1. [Built-in Variables](#built-in-variables)
-6. [Regular Expressions and Globbing](#regular-expressions-and-globbing)
-7. [String Manipulation](#string-manipulation)
-8. [Debugging](#debugging)
-9. [Best Practices](#best-practices)
-10. [Further Reading](#further-reading)
-11. [Version](#version)
 
 ## Bash Scripting
 
