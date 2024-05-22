@@ -1,4 +1,3 @@
-```markdown
 # Bash Shell Scripting Notes
 
 ## Table of Contents
@@ -1652,6 +1651,4 @@ CHeetSHeet :
 - **Redirect Input from File**: `command < file`
 - **Redirect Output and Errors to File**: `command > file 2>&1`
 - **Pipe Command Output**: `command1 | command2`
-
-```
 
