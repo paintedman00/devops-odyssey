@@ -1,6 +1,4 @@
-
-
-# Docker Quick Reference Cheat Sheet
+# Docker
 
 ## Table of Contents
 1. [Introduction to Docker](#introduction-to-docker)
