@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [Introduction to Docker](#1-introduction-to-docker)
-2. [Installation](#installation)
-3. [Docker Basics](#docker-basics)
+2. [Installation](#2-installation)
+3. [Docker Basics](#3-docker-basics)
 4. [Container Manipulation](#container-manipulation)
 5. [Image Manipulation](#image-manipulation)
 6. [Volumes and Bind Mounts](#volumes-and-bind-mounts)
