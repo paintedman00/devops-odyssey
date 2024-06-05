@@ -1,7 +1,3 @@
-Sure! Here's the updated `README.md`:
-
----
-
 # DevOps Notes
 
 Welcome to the DevOps Notes repository! This repository is a collection of notes and resources from my learning journey in DevOps. I update it regularly for my reference, and you are welcome to use it too.
